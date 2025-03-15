@@ -1,0 +1,19 @@
+{
+  "name": "git-extended",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": "git@github.com:Zyukov-Alex/git-extended.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Zyukov Alex 1132241589@pfur.ru",
+  "license": "CC-BY-4.0",
+  "packageManager": "pnpm@10.6.3",
+  "config": {
+        "commitizen": {
+            "path": "cz-conventional-changelog"
+        }
+   }
+}
